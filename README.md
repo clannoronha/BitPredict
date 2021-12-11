@@ -11,11 +11,11 @@ This notebook ws inspired from [Daniel Bourke's version](https://github.com/mrdb
 The model will use a window size of 7 (the past one week of bitcoin prices) to predict a horizon of 1 (the future price of bitcoin)
   
 ## NBeats Architecture
-
+<p align="center">
 <a href="https://github.com/clannoronha/BitPredict">
   <img src="img/NBeats_Architecture.PNG" alt="Logo">
 </a>
-
+<p>
 ## Building, compiling and fitting the N-BEATS algorithm
 
 1. Setup an instance of the N-BEATS block layer using `NBeatsBlock` (this'll be the initial block used for the network, the rest will be created as part of stacks). This will be done using model subclassing in TensorFlow
