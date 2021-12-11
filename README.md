@@ -13,7 +13,7 @@ The model will use a window size of 7 (the past one week of bitcoin prices) to p
 ## NBeats Architecture
 
 <a href="https://github.com/clannoronha/BitPredict">
-  <img src="img/NBeats_Architecture.png" alt="Logo">
+  <img src="img/NBeats_Architecture.PNG" alt="Logo">
 </a>
 
 ## Building, compiling and fitting the N-BEATS algorithm
